@@ -1,19 +1,4 @@
 {
-  "pages": [{
-    "name": "page1",
-    "elements": [{
-      "type": "text",
-      "name": "name",
-      "title": "Seu nome",
-      "isRequired": true
-    }, {
-      "type": "text",
-      "name": "email",
-      "title": "Seu email",
-      "isRequired": true,
-      "validators": [{"type": "email"}]
-    }]
-  }],
-  "showProgressBar": "bottom",
-  "showQuestionNumbers": "off"
+  "surveyId": "49e7d07b-6ec3-44f6-8a60-40e973b2435d",
+  "surveyPostId": "714d0fdb-17f9-44ba-97ab-ed191189dc1e"
 }
